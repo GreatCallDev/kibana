@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Kibana</id>
+    <title>Kibana 3 application</title>
+    <version>1.0.0.0</version>
+    <authors>Rashid Khan</authors>
+    <owners>Elasticsearch BV</owners>
+    <iconUrl>http://www.greatcall.com/images/favicon.ico</iconUrl>
+    <!--<licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>-->
+    <copyright>Elasticsearch BV</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Kibana 3 Application</summary>
+    <description>Kibana 3 Application</description>
+  </metadata>
+  <files>
+    <file src="src\**" target="" />
+  </files>
+</package>
